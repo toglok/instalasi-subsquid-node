@@ -55,4 +55,4 @@ npm install -g @subsquid/cli
    ![image](https://github.com/herculessx/subsquidNode/assets/101635385/9836e6c9-805e-4740-9f84-2633189ef156)
 
    
-   
+   ![image](https://github.com/toglokkoplak/gambar1/commit/b5a8a9f41f9ad39ce1c3f1c3f98c095d6cc462f4)
