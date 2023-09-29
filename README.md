@@ -4,7 +4,7 @@ Panduan Instalasi subsquidNode
 * [subsquid](https://app.subsquid.io/squids/)
 * [form](https://subsquid.deform.cc/testnetnodeapplication/)
 * [Telegram](https://t.me/toglok0407)
-* [Hercules Twitter](https://twitter.com/oogle04)
+* [Twitter](https://twitter.com/oogle04)
 
 # hadiah
 
@@ -40,3 +40,4 @@ sudo apt-get install -y nodejs
 ```
 
 <hr>
+
