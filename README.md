@@ -42,10 +42,11 @@ sudo apt-get install -y nodejs
 <hr>
 
 [Buka-tautan-in](https://app.subsquid.io/squids/)
-1-Pasang CLI
+
+1. pasang CLI
 
 ```shell
 npm install -g @subsquid/cli
 ```
 
-2-Konfigurasikan CLI, (jika terjadi error saat konfigurasi generate key baru di dashboard)
+2. onfigurasikan CLI, (jika terjadi error saat konfigurasi generate key baru di dashboard)
