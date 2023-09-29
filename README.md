@@ -49,7 +49,7 @@ sudo apt-get install -y nodejs
 npm install -g @subsquid/cli
 ```
 
-2. (konfigurasikan CLI)_jika terjadi error saat konfigurasi generate key baru di dashboard_
+2. konfigurasikan CLI  <u>jika terjadi error saat konfigurasi generate key baru di dashboard</u>
 
 
    ![image](https://github.com/herculessx/subsquidNode/assets/101635385/9836e6c9-805e-4740-9f84-2633189ef156)
